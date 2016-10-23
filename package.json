@@ -74,13 +74,9 @@
   },
   "directories": {
     "lib": "lib",
-    "bin": "bin",
     "doc": "doc",
     "tasks": "tasks",
-    "templates": "templates",
-    "test": "test",
-    "reports": "Reports",
-    "build": "Build"
+    "test": "test"
   },
   "dependencies": {
     "q": "^1.4.1",
