@@ -1,6 +1,6 @@
-@libraries=./Email connector-MDLPCNSG-2-steps
 Feature: Email connector: Add sendgrid options passthrough from datasource
 
+  @pending
   Scenario: Pass options from datasource
 
     Given the sendgrid connector
